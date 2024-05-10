@@ -1,0 +1,124 @@
+,Continent,Region/Country,Variable,Year,Quantity (per 1000 hl)
+83,Europe,Italy,Production,2022,49843
+96,Europe,France,Production,2022,45817
+130,Europe,Spain,Production,2022,35703
+225,America,United States of America,Production,2022,22385
+346,Oceania,Australia,Production,2022,13070
+384,America,Chile,Production,2022,12443
+414,America,Argentina,Production,2022,11451
+457,Africa,South Africa,Production,2022,10337
+520,Europe,Germany,Production,2022,8940
+587,Europe,Portugal,Production,2022,6848
+690,Europe,Russia,Production,2022,4888
+751,Asia,"China, mainland",Production,2022,4182
+789,Oceania,New Zealand,Production,2022,3830
+796,Europe,Romania,Production,2022,3788
+900,America,Brazil,Production,2022,3200
+1086,Europe,Austria,Production,2022,2527
+1106,Europe,Hungary,Production,2022,2484
+1232,Asia,Georgia,Production,2022,2135
+1249,Europe,Greece,Production,2022,2084
+1403,Europe,Moldova,Production,2022,1400
+1573,Europe,Switzerland,Production,2022,992
+1728,America,Peru,Production,2022,810
+1736,Asia,Japan,Production,2022,805
+1753,Europe,Bulgaria,Production,2022,794
+1799,America,Uruguay,Production,2022,756
+1838,Europe,Croatia,Production,2022,726
+1851,Europe,Serbia,Production,2022,705
+1905,Europe,Ukraine,Production,2022,660
+1912,America,Canada,Production,2022,656
+1965,Asia,Republic of Türkiye,Production,2022,622
+2017,Europe,Czech Republic,Production,2022,586
+2078,Europe,Slovenia,Production,2022,546
+2210,Asia,Israel,Production,2022,430
+2243,Africa,Morocco,Production,2022,409
+2277,America,Mexico,Production,2022,396
+2396,Africa,Tunisia,Production,2022,350
+2437,Europe,Slovakia,Production,2022,332
+2731,Asia,Kazakhstan,Production,2022,233
+2747,Europe,Albania,Production,2022,228
+2778,Asia,Uzbekistan,Production,2022,218
+2858,Africa,Algeria,Production,2022,193
+2910,Asia,India,Production,2022,180
+3176,Asia,Armenia,Production,2022,122
+3268,Europe,Estonia,Production,2022,110
+3283,Europe,Cyprus,Production,2022,108
+3351,Asia,Lebanon,Production,2022,100
+3443,Europe,United Kingdom,Production,2022,91
+3528,America,Bolivia,Production,2022,84
+3641,Africa,Madagascar,Production,2022,78
+3749,Europe,Montenegro,Production,2022,70
+3757,Europe,Bosnia and Herzegovina,Production,2022,69
+4056,Africa,Egypt,Production,2022,53
+4502,Europe,Lithuania,Production,2022,32
+4544,Europe,Belgium,Production,2022,30
+4955,Europe,Latvia,Production,2022,20
+5077,America,Paraguay,Production,2022,17
+5234,Asia,Kyrgyzstan,Production,2022,14
+5264,Africa,Zimbabwe,Production,2022,14
+5297,Europe,Malta,Production,2022,13
+5462,Europe,Netherlands,Production,2022,10
+5570,Africa,Ethiopia,Production,2022,8
+5851,Europe,Poland,Production,2022,5
+6443,Asia,Tajikistan,Production,2022,2
+6555,Europe,Denmark,Production,2022,1
+6701,America,Panama,Production,2022,1
+6883,Asia,Afghanistan,Production,2022,0
+7103,Asia,Bahrain,Production,2022,0
+7136,Asia,Bangladesh,Production,2022,0
+7248,Africa,Benin,Production,2022,0
+7332,Africa,Botswana,Production,2022,0
+7413,Africa,Burkina Faso,Production,2022,0
+7499,Asia,Cambodia,Production,2022,0
+7527,Africa,Cameroon,Production,2022,0
+7611,Africa,Chad,Production,2022,0
+7723,America,Colombia,Production,2022,0
+7751,Africa,Comoros,Production,2022,0
+7868,America,Costa Rica,Production,2022,0
+7989,America,Dominican Republic,Production,2022,0
+8017,America,Ecuador,Production,2022,0
+8045,America,El Salvador,Production,2022,0
+8215,Europe,Finland,Production,2022,0
+8305,Africa,Gabon,Production,2022,0
+8343,Africa,Gambia,Production,2022,0
+8371,Africa,Ghana,Production,2022,0
+8547,Africa,Guinea,Production,2022,0
+8677,America,Honduras,Production,2022,0
+8720,Asia,Indonesia,Production,2022,0
+8774,Asia,Iran,Production,2022,0
+8811,Asia,Iraq,Production,2022,0
+8839,Europe,Ireland,Production,2022,0
+8867,America,Jamaica,Production,2022,0
+8897,Asia,Jordan,Production,2022,0
+8925,Africa,Kenya,Production,2022,0
+9163,Africa,Liberia,Production,2022,0
+9270,Africa,Malawi,Production,2022,0
+9298,Asia,Malaysia,Production,2022,0
+9354,Africa,Mali,Production,2022,0
+9479,Africa,Mauritania,Production,2022,0
+9507,Africa,Mauritius,Production,2022,0
+9593,Asia,Mongolia,Production,2022,0
+9673,Africa,Mozambique,Production,2022,0
+9702,Asia,Myanmar,Production,2022,0
+9732,Africa,Namibia,Production,2022,0
+9820,Asia,Nepal,Production,2022,0
+9927,America,Nicaragua,Production,2022,0
+9955,Africa,Niger,Production,2022,0
+9983,Africa,Nigeria,Production,2022,0
+10095,Europe,Norway,Production,2022,0
+10168,Asia,Pakistan,Production,2022,0
+10252,Asia,Philippines,Production,2022,0
+10691,Asia,Saudi Arabia,Production,2022,0
+10719,Africa,Senegal,Production,2022,0
+10807,Africa,Sierra Leone,Production,2022,0
+10835,Asia,Singapore,Production,2022,0
+10984,Asia,Sri Lanka,Production,2022,0
+11033,Asia,State of Palestine,Production,2022,0
+11129,Europe,Sweden,Production,2022,0
+11191,Asia,Thailand,Production,2022,0
+11254,Africa,Togo,Production,2022,0
+11398,Africa,Uganda,Production,2022,0
+11482,America,Venezuela,Production,2022,0
+11510,Asia,Vietnam,Production,2022,0
+11622,Africa,Zambia,Production,2022,0

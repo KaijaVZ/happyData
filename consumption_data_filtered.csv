@@ -1,0 +1,124 @@
+,Continent,Region/Country,Variable,Year,Quantity (per 1000 hl)
+140,America,United States of America,Consumption,2022,34344
+203,Europe,France,Consumption,2022,24872
+226,Europe,Italy,Consumption,2022,22300
+274,Europe,Germany,Consumption,2022,19400
+359,Europe,United Kingdom,Consumption,2022,12834
+487,Europe,Spain,Consumption,2022,9767
+527,Asia,"China, mainland",Consumption,2022,8815
+547,Europe,Russia,Consumption,2022,8394
+550,America,Argentina,Consumption,2022,8276
+621,Europe,Portugal,Consumption,2022,6022
+656,Oceania,Australia,Consumption,2022,5337
+718,Africa,South Africa,Consumption,2022,4550
+748,America,Canada,Consumption,2022,4200
+817,Europe,Netherlands,Consumption,2022,3622
+821,America,Brazil,Consumption,2022,3590
+970,Asia,Japan,Consumption,2022,2945
+1099,Europe,Romania,Consumption,2022,2498
+1158,Europe,Switzerland,Consumption,2022,2372
+1170,Europe,Austria,Consumption,2022,2350
+1192,America,Chile,Consumption,2022,2280
+1220,Europe,Czech Republic,Consumption,2022,2190
+1264,Europe,Belgium,Consumption,2022,2023
+1273,Europe,Sweden,Consumption,2022,1993
+1283,Europe,Greece,Consumption,2022,1940
+1337,Europe,Hungary,Consumption,2022,1705
+1368,Europe,Denmark,Consumption,2022,1526
+1405,Europe,Poland,Consumption,2022,1396
+1459,Asia,Georgia,Consumption,2022,1203
+1518,Europe,Ukraine,Consumption,2022,1084
+1521,America,Mexico,Consumption,2022,1080
+1592,Europe,Croatia,Consumption,2022,961
+1644,America,Peru,Consumption,2022,915
+1662,Oceania,New Zealand,Consumption,2022,895
+1770,Asia,Republic of Türkiye,Consumption,2022,775
+1785,Europe,Ireland,Consumption,2022,763
+1886,Europe,Slovenia,Consumption,2022,674
+1901,Europe,Norway,Consumption,2022,660
+2010,America,Uruguay,Consumption,2022,591
+2105,Europe,Bulgaria,Consumption,2022,521
+2173,Europe,Serbia,Consumption,2022,472
+2186,Asia,Kazakhstan,Consumption,2022,459
+2215,Europe,Slovakia,Consumption,2022,428
+2285,Africa,Morocco,Consumption,2022,391
+2319,Africa,Namibia,Consumption,2022,379
+2442,Europe,Moldova,Consumption,2022,329
+2473,Europe,Albania,Consumption,2022,315
+2491,Europe,Lithuania,Consumption,2022,310
+2551,Africa,Algeria,Consumption,2022,289
+2581,Africa,Nigeria,Consumption,2022,279
+2587,Europe,Estonia,Consumption,2022,277
+2624,America,Paraguay,Consumption,2022,264
+2729,America,Colombia,Consumption,2022,233
+2736,Europe,Finland,Consumption,2022,232
+2753,Asia,Philippines,Consumption,2022,228
+2784,Asia,India,Consumption,2022,217
+2940,Africa,Tunisia,Consumption,2022,173
+2994,Asia,Uzbekistan,Consumption,2022,163
+3027,Asia,Singapore,Consumption,2022,157
+3042,Europe,Cyprus,Consumption,2022,153
+3111,Africa,Cameroon,Consumption,2022,136
+3199,Europe,Bosnia and Herzegovina,Consumption,2022,119
+3235,Africa,Burkina Faso,Consumption,2022,114
+3292,America,Costa Rica,Consumption,2022,107
+3340,America,Ecuador,Consumption,2022,100
+3371,Asia,Armenia,Consumption,2022,98
+3447,America,Bolivia,Consumption,2022,90
+3458,Europe,Latvia,Consumption,2022,90
+3559,Africa,Madagascar,Consumption,2022,83
+3578,Asia,Lebanon,Consumption,2022,82
+3589,America,Dominican Republic,Consumption,2022,81
+3727,Africa,Kenya,Consumption,2022,71
+3798,Africa,Ghana,Consumption,2022,68
+3825,Europe,Malta,Consumption,2022,66
+3888,Asia,Malaysia,Consumption,2022,62
+3964,Asia,Vietnam,Consumption,2022,58
+4008,Africa,Egypt,Consumption,2022,55
+4031,Africa,Gabon,Consumption,2022,54
+4043,Africa,Senegal,Consumption,2022,54
+4167,Africa,Botswana,Consumption,2022,46
+4195,America,Jamaica,Consumption,2022,45
+4353,Asia,Israel,Consumption,2022,38
+4380,Europe,Montenegro,Consumption,2022,37
+4563,Asia,Kyrgyzstan,Consumption,2022,30
+4653,Africa,Zambia,Consumption,2022,27
+4670,America,El Salvador,Consumption,2022,26
+4713,Asia,Indonesia,Consumption,2022,25
+4767,Africa,Mozambique,Consumption,2022,24
+4775,America,Venezuela,Consumption,2022,24
+4784,Africa,Benin,Consumption,2022,23
+4860,Africa,Zimbabwe,Consumption,2022,22
+4945,America,Honduras,Consumption,2022,20
+4994,Africa,Mali,Consumption,2022,19
+5037,Asia,Mongolia,Consumption,2022,18
+5116,Africa,Mauritius,Consumption,2022,16
+5144,Asia,Bahrain,Consumption,2022,15
+5321,Asia,Cambodia,Consumption,2022,12
+5363,Africa,Uganda,Consumption,2022,12
+5401,America,Nicaragua,Consumption,2022,11
+5405,America,Panama,Consumption,2022,11
+5415,Asia,Sri Lanka,Consumption,2022,11
+5452,Asia,Iraq,Consumption,2022,10
+5466,Africa,Niger,Consumption,2022,10
+5479,Asia,Thailand,Consumption,2022,10
+5511,Africa,Guinea,Consumption,2022,9
+5569,Africa,Ethiopia,Consumption,2022,8
+5592,Africa,Liberia,Consumption,2022,8
+5665,Asia,Nepal,Consumption,2022,7
+6003,Asia,Tajikistan,Consumption,2022,4
+6036,Africa,Comoros,Consumption,2022,3
+6083,Asia,Jordan,Consumption,2022,3
+6141,Africa,Sierra Leone,Consumption,2022,3
+6222,Africa,Chad,Consumption,2022,2
+6316,Africa,Malawi,Consumption,2022,2
+6476,Asia,Afghanistan,Consumption,2022,1
+6499,Asia,Bangladesh,Consumption,2022,1
+6666,Asia,Myanmar,Consumption,2022,1
+8342,Africa,Gambia,Consumption,2022,0
+8773,Asia,Iran,Consumption,2022,0
+9478,Africa,Mauritania,Consumption,2022,0
+10167,Asia,Pakistan,Consumption,2022,0
+10690,Asia,Saudi Arabia,Consumption,2022,0
+11032,Asia,State of Palestine,Consumption,2022,0
+11253,Africa,Togo,Consumption,2022,0
